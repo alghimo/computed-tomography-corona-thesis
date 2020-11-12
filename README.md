@@ -8,6 +8,8 @@ conda install tensorflow-gpu==2.2.0
 conda install pandas==1.1.2
 pip install -r requirements.txt
 conda install jupyterlab==2.2.6
+conda install nodejs>=10
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
 ## Starting the project

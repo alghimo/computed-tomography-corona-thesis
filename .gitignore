@@ -51,4 +51,5 @@ Thumbs.db
 *data/
 data
 
-*.ipynb_checkpoints/
+*.ipynb_checkpoints/paper_code/
+*paper_code/
