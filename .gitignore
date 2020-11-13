@@ -48,3 +48,13 @@ Thumbs.db
 *.mov
 *.wmv
 
+*data/
+data
+
+*.ipynb_checkpoints/paper_code/
+*paper_code/
+*tfg.egg-info/
+*.ipynb_checkpoints/
+**.ipynb_checkpoints/
+*models/
+*logs/
