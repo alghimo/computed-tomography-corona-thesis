@@ -43,3 +43,45 @@ no link between labels and metadata (although there are overlapping patien ids)
     - 36% CP
     - 5% NCP
     - 59% Normal
+
+# Train / test split
+
+## Step 1 - Get unique patient ids
+## Step 2 - Split patient ids between train & test (90/10)
+## Step 3 - Train the CNN
+
+- Directory structure:
+    data
+        /train
+            /CP
+                [IMAGES]
+            /NCP
+            /Normal
+        /test
+            /CP
+                [IMAGES]
+            /NCP
+            /Normal
+
+## Step 4 Group images into sequences
+
+Goal is to divide the CTs into groups of N images
+- Directory
+
+
+
+
+# Extra bibliography
+
+Recurrent Neural Networks - Combination of RNN and CNN
+https://wiki.tum.de/display/lfdv/Recurrent+Neural+Networks+-+Combination+of+RNN+and+CNN#RecurrentNeuralNetworksCombinationofRNNandCNN-CombinationofRecurrentandConvolutionalNeuralNetworks
+Visited on Nov 1st
+
+Convolutional Neural Network and Regularization Techniques with TensorFlow and Keras
+https://medium.com/intelligentmachines/convolutional-neural-network-and-regularization-techniques-with-tensorflow-and-keras-5a09e6e65dc7
+Visited on Nov 13
+
+
+Towards Dropout Training for Convolutional Neural Networks
+https://arxiv.org/pdf/1512.00242.pdf
+Visited on Nov 13
