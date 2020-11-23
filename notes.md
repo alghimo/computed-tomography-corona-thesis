@@ -73,7 +73,7 @@ Goal is to divide the CTs into groups of N images
 
 # Extra bibliography
 
-Recurrent Neural Networks - Combination of RNN and CNN
+<!-- Recurrent Neural Networks - Combination of RNN and CNN
 https://wiki.tum.de/display/lfdv/Recurrent+Neural+Networks+-+Combination+of+RNN+and+CNN#RecurrentNeuralNetworksCombinationofRNNandCNN-CombinationofRecurrentandConvolutionalNeuralNetworks
 Visited on Nov 1st
 
@@ -84,4 +84,16 @@ Visited on Nov 13
 
 Towards Dropout Training for Convolutional Neural Networks
 https://arxiv.org/pdf/1512.00242.pdf
-Visited on Nov 13
+Visited on Nov 13 -->
+
+
+https://chartio.com/resources/tutorials/how-to-save-a-plot-to-a-file-using-matplotlib/
+
+
+Visualizing the Impact of Feature Attribution Baselines
+https://distill.pub/2020/attribution-baselines/
+Visited on Nov 22
+
+Saliency Map
+https://en.wikipedia.org/wiki/Saliency_map
+Visited on Nov 21
